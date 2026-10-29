@@ -1,0 +1,5 @@
+# MultiAgente secret and temporary files protector
+ma_config.json
+*.tmp
+__pycache__/
+*.pyc
